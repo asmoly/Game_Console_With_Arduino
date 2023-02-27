@@ -1,4 +1,7 @@
 # Game_Console_With_Arduino
+
+![Gameboy in action](Demos/Game_Running_1.jpg)
+
 This is a small game console I built with an Arduino.
 It has a 3.5" screen, an Arduino Mega 2560, a 9v battery connected to the Arduino which is controlled by a switch,
 and it has buttons that I soldered onto a pcb board and then ran wires to the GPIO pins on the Arduino.
